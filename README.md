@@ -7,7 +7,7 @@
   <p></p>
   <li>Slices are added one by one in such an order checking that they do not overlap;</li>
   <p></p>
-  <li>Slices are added until <i>(i) or, eventually, no more suitable slices can be added <i>(ii)</i> if the entire pizza area has been covered.</li>
+  <li>Slices are added until <i>(i)</i> or, eventually, no more suitable slices can be added <i>(ii)</i> if the entire pizza area has been covered.</li>
   <p></p>
   </ol>
   <p></p>
